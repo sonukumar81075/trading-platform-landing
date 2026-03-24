@@ -1,0 +1,116 @@
+{
+    "title": "BUSINESS & PAYMENTS DISCLOSURE",
+    "description": "Last updated: March 2026",
+    "sections": [
+        {
+            "title": "1) About Pilot",
+            "body": [
+                "Pilot is a technology-enabled driving education and license assistance platform designed to provide structured, safe, and convenient car driving training along with end-to-end support for the driving license process.",
+                "Through our mobile applications, learners can book professional driving instructors, purchase driving and license assistance packages, schedule sessions, access mock tests for license exams, track progress, and complete their learning journey seamlessly.",
+                "Pilot also assists learners by coordinating RTO visits and supporting them throughout the applicable legal processes.",
+                "Pilot operates two applications:",
+                "Pilot Learner App – for learners to purchase driving and license assistance packages, book sessions, access mock tests, track progress, and manage payments.",
+                "Pilot Instructor App – for verified instructors to manage classes, learner sessions, earnings, and withdrawals."
+            ]
+        },
+        {
+            "title": "2) Nature of Services",
+            "body": [
+                "Pilot is a managed service platform that offers organized driving training and comprehensive license assistance services. We are not a listing-only marketplace.",
+                "The platform manages instructor onboarding and verification, driving training services, license assistance services including mock tests and RTO coordination, package pricing and service offerings, booking and scheduling, session verification and completion tracking, payments, commissions, and payouts, safety measures and insurance coverage, and customer support."
+            ]
+        },
+        {
+            "title": "3) Business Model",
+            "isList": true,
+            "body": [
+                "Pilot follows a Full-Stack Aggregator Business Model. This means that Pilot:",
+                "Aggregates certified driving instructors onto the platform.",
+                "Owns the end-to-end learner experience.",
+                "Controls pricing through predefined training and license assistance packages.",
+                "Ensures service quality, safety, and consistency.",
+                "Handles all payments and financial settlements.",
+                "Learners interact directly with Pilot for all services, and instructors deliver training on behalf of the platform."
+            ]
+        },
+        {
+            "title": "4) Revenue Model",
+            "isList": true,
+            "body": [
+                "Pilot operates on a commission-based revenue model:",
+                "Learners purchase driving and/or license assistance packages through the app.",
+                "Payments are collected by Pilot.",
+                "Pilot deducts a predefined commission from each transaction.",
+                "The remaining amount is credited to the assigned instructor as earnings.",
+                "The commission covers platform operations, technology infrastructure, customer support, safety measures, insurance, mock test infrastructure, and RTO coordination services."
+            ]
+        },
+        {
+            "title": "5) Payment Processing",
+            "isList": true,
+            "body": [
+                "All payments are securely processed using Razorpay, a trusted and PCI-DSS compliant payment gateway.",
+                "Payment flow:",
+                "Learner selects a training package in the app.",
+                "Learner is redirected to the Razorpay payment gateway.",
+                "Payment is completed using UPI, cards, net banking, or other supported methods.",
+                "The full amount is collected by Pilot.",
+                "Learners do not make any direct payments to instructors or RTO officials."
+            ]
+        },
+        {
+            "title": "6) Instructor Payouts",
+            "body": [
+                "Instructor earnings are calculated based on completed sessions and package allocation. Earnings are reflected in the Pilot Instructor App.",
+                "Instructors can withdraw their earnings directly to their registered bank accounts.",
+                "Payouts are processed in accordance with internal settlement cycles.",
+                "Pilot manages all financial settlements to ensure transparency and accuracy."
+            ]
+        },
+        {
+            "title": "7) Pricing Transparency",
+            "body": [
+                "All package prices are clearly displayed to learners before purchase.",
+                "No hidden charges are applied.",
+                "Any applicable platform or convenience fees are disclosed during checkout."
+            ]
+        },
+        {
+            "title": "8) Safety, Verification & Quality Control",
+            "isList": true,
+            "body": [
+                "To ensure a safe, reliable, and compliant learning experience, Pilot implements the following measures:",
+                "All instructors undergo identity and driving license verification.",
+                "License assistance processes follow applicable legal and regulatory requirements.",
+                "Mock tests are provided to help learners prepare for license exams.",
+                "Sessions are OTP-verified and learner progress is tracked digitally.",
+                "Insurance coverage is provided during active driving sessions.",
+                "Customer support is available for issue resolution."
+            ]
+        },
+        {
+            "title": "9) Refunds & Cancellations",
+            "body": [
+                "Refunds and cancellations are governed by Pilot’s Refund Policy and Terms of Service.",
+                "Eligibility for refunds depends on package usage status, session completion, and cancellation timelines.",
+                "Detailed refund terms are available within the app and on the official website."
+            ]
+        },
+        {
+            "title": "10) Compliance & Platform Responsibility",
+            "body": [
+                "Pilot complies with applicable laws, app store policies, and payment regulations.",
+                "The platform is responsible for service delivery coordination, payment processing, instructor payouts, and user data protection."
+            ]
+        },
+        {
+            "title": "11) Contact & Support",
+            "isSupport": true,
+            "body": [
+                "For any questions regarding our business model, payments, or services, please contact:",
+                "Email: support@pilotnow.in",
+                "Website: https://pilotnow.in"
+            ]
+        }
+    ]
+}

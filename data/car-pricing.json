@@ -1,0 +1,31 @@
+{
+  "headline": "Car Training Packages",
+  "subtitle": "Choose the right car training program. We provide structured lessons, certified instructors, and complete test preparation.",
+  "plans": [
+    {
+      "title": "Standard Car Training",
+      "icon": "car",
+      "description": "Personalized manual or automatic car driving lessons focused on building solid fundamentals and road confidence.",
+      "features": [
+        "10 practical driving sessions",
+        "Dual control training vehicles",
+        "Basic parking & maneuver training"
+      ],
+      "price": "149",
+      "isPopular": false
+    },
+    {
+      "title": "Premium Car Training",
+      "icon": "car",
+      "description": "Extended training with additional practice time, night driving, and mock driving tests for complete exam readiness.",
+      "features": [
+        "15+ practical driving sessions",
+        "Highway & night driving practice",
+        "Mock driving test with feedback",
+        "Personalized improvement checklist"
+      ],
+      "price": "219",
+      "isPopular": true
+    }
+  ]
+}

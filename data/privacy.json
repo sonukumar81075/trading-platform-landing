@@ -1,0 +1,145 @@
+{
+  "title": "PRIVACY POLICY",
+  "description": "Last updated: March 2026",
+  "sections": [
+    {
+      "title": "Introduction",
+      "body": [
+        "PILOT MOBILITY PRIVATE LIMITED (\"Pilot Mobility\", \"Pilot\", \"we\", \"us\", or \"our\") is committed to protecting your privacy.",
+        "This Privacy Policy explains how we collect, use, process, store, and protect your personal information when you use the Pilot - Learn Car Driving App, Pilot Instructor App, Admin Portal, and our website https://pilotnow.in (collectively referred to as the \"Platform\")."
+      ]
+    },
+    {
+      "title": "1. Information We Collect",
+      "body": [
+        "We may collect the following information:"
+      ]
+    },
+    {
+      "title": "Personal Information",
+      "body": [
+        "Name, mobile number, email address, date of birth, address, and profile photo."
+      ]
+    },
+    {
+      "title": "Verification Information (Instructors)",
+      "isList": true,
+      "listOutro": true,
+      "body": [
+        "For instructors registering on the Platform, we may collect verification documents and details such as:",
+        "Aadhaar Card",
+        "PAN Card",
+        "Valid Driving License",
+        "Vehicle Registration Certificate (RC)",
+        "Vehicle Pollution Under Control (PUC) Certificate",
+        "Valid Vehicle Insurance",
+        "Other vehicle details used for training",
+        "Recent images of the training vehicle",
+        "Bank account details for instructor payouts",
+        "These documents are used for identity verification, instructor onboarding, and compliance purposes."
+      ]
+    },
+    {
+      "title": "Transaction Information",
+      "body": [
+        "Package purchases, session logs, payments, and refunds."
+      ]
+    },
+    {
+      "title": "Location Data",
+      "body": [
+        "The Platform may request access to your device location to help select pickup points and assist with session coordination between learners and instructors.",
+        "Location data is used only when required within the app for these purposes. Pilot does not perform background location tracking or continuous live location monitoring of users."
+      ]
+    },
+    {
+      "title": "Device Information",
+      "body": [
+        "Device type, operating system, IP address, and app usage data."
+      ]
+    },
+    {
+      "title": "Payment Information",
+      "body": [
+        "Payments are processed securely through Razorpay or other authorized payment partners.",
+        "Pilot does not store debit card, credit card, or UPI credentials."
+      ]
+    },
+    {
+      "title": "2. How We Use Your Information",
+      "isList": true,
+      "body": [
+        "We use your information to:",
+        "Create and manage user accounts",
+        "Schedule and verify driving sessions (including OTP-based verification)",
+        "Assist with pickup point selection and coordination between learners and instructors",
+        "Coordinate RTO visits and provide license assistance services",
+        "Process payments and manage instructor payouts",
+        "Provide insurance coverage during active driving sessions",
+        "Improve platform performance, features, and safety",
+        "Comply with applicable legal, regulatory, and contractual requirements"
+      ]
+    },
+    {
+      "title": "3. Sharing of Information",
+      "isList": true,
+      "listOutro": true,
+      "body": [
+        "We do not sell your personal information. Information may be shared with:",
+        "Assigned instructors or learners for session coordination",
+        "Razorpay and other payment partners for payment processing",
+        "Insurance partners for coverage and claims validation",
+        "Verification and KYC partners for identity and document verification",
+        "Government or regulatory authorities if required by law",
+        "All such third parties are required to maintain appropriate confidentiality and security standards when handling your information."
+      ]
+    },
+    {
+      "title": "4. Data Security",
+      "body": [
+        "We implement industry-standard security measures including encryption, secure cloud storage, role-based access control, and secure payment processing.",
+        "While we take reasonable precautions to protect your data, no system or method of transmission over the internet is completely secure."
+      ]
+    },
+    {
+      "title": "5. Data Retention",
+      "body": [
+        "We retain your information for as long as your account is active and as required to fulfil legal, regulatory, and business obligations.",
+        "After this period, we may delete or anonymize your data in accordance with applicable laws and our internal policies."
+      ]
+    },
+    {
+      "title": "6. Your Rights",
+      "body": [
+        "You may request to access, update, or delete your personal information by contacting us.",
+        "Please note that certain information may be retained if required for legal, accounting, regulatory, or compliance purposes."
+      ]
+    },
+    {
+      "title": "7. Children's Privacy",
+      "body": [
+        "The Platform is intended only for individuals who are 18 years of age or older.",
+        "Both Learners and Instructors must be at least 18 years old to create an account and use the services offered on the Platform.",
+        "Pilot does not knowingly collect personal information from individuals under the age of 18.",
+        "If we become aware that a minor has provided personal information, we will take appropriate steps to delete such information and disable the associated account."
+      ]
+    },
+    {
+      "title": "8. Changes to This Policy",
+      "body": [
+        "We may update this Privacy Policy from time to time.",
+        "Any changes will be posted on our website and the updated effective date will be mentioned at the top of this page.",
+        "We encourage you to review this Policy periodically to stay informed about how we are protecting your information."
+      ]
+    },
+    {
+      "title": "9. Contact Us",
+      "body": [
+        "If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us at:",
+        "Email: support@pilotnow.in",
+        "Website: https://pilotnow.in"
+      ]
+    }
+  ]
+}
+

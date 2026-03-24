@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800" fill="none">
+  <rect width="800" height="800" rx="36" fill="#0B1220"/>
+  <rect x="60" y="70" width="680" height="660" rx="28" fill="#111827" stroke="#374151"/>
+  <rect x="110" y="130" width="580" height="180" rx="16" fill="#1F2937"/>
+  <text x="140" y="190" fill="#C4B5FD" font-family="Courier New" font-size="26">if (emaFast &gt; emaSlow) signal = BUY;</text>
+  <text x="140" y="240" fill="#93C5FD" font-family="Courier New" font-size="26">if (rsi &lt; 30) signal = EXIT;</text>
+  <rect x="110" y="340" width="580" height="320" rx="16" fill="#0F172A"/>
+  <polyline points="140,610 200,540 260,560 320,480 380,510 440,450 500,470 560,390 640,420" stroke="#22C55E" stroke-width="5" fill="none"/>
+  <polyline points="140,630 210,590 280,600 350,570 420,580 490,550 560,560 640,540" stroke="#60A5FA" stroke-width="4" fill="none" opacity="0.9"/>
+</svg>

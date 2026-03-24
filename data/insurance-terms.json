@@ -1,0 +1,67 @@
+{
+  "title": "INSURANCE TERMS & CONDITIONS",
+  "description": "Last updated: March 2026",
+  "sections": [
+    {
+      "title": "Introduction",
+      "body": [
+        "These Insurance Terms & Conditions govern the complimentary ride insurance provided to Pilot Mobility passengers.",
+        "Please read this document carefully. By taking a covered ride on the Pilot Mobility platform, you agree to the coverage terms, exclusions, and claim procedures mentioned below. In the event of any conflict, the master policy wording issued by the insurance partner will prevail."
+      ]
+    },
+    {
+      "title": "1) Coverage Summary",
+      "isList": true,
+      "body": [
+        "The insurance coverage available for eligible rides includes:",
+        "Personal Accident / Accidental Death benefit up to the insured sum as per the policy.",
+        "Medical expenses for hospitalization related to an eligible accident during the ride.",
+        "OPD treatment expenses for minor injuries, as covered under the policy.",
+        "Coverage is valid only for rides booked and completed via the Pilot Mobility platform."
+      ]
+    },
+    {
+      "title": "2) Eligibility",
+      "isList": true,
+      "body": [
+        "To be eligible for coverage:",
+        "The insured person must be a valid passenger on a confirmed Pilot Mobility ride.",
+        "The ride must be booked using a registered mobile number or account.",
+        "Coverage is applicable only for the duration of the ride, from trip start to trip end."
+      ]
+    },
+    {
+      "title": "3) Major Exclusions",
+      "isList": true,
+      "body": [
+        "The following are some of the major exclusions (not covered):",
+        "Self-inflicted injury, suicide, or attempted suicide.",
+        "Accidents occurring under the influence of alcohol or banned substances.",
+        "Participation in unlawful acts or racing, speeding contests, etc.",
+        "Pre-existing diseases or conditions not triggered by the insured incident.",
+        "Any exclusion specifically mentioned in the insurer's master policy."
+      ]
+    },
+    {
+      "title": "4) Claims & Documentation",
+      "body": [
+        "Claims must be raised within the timelines defined by the insurance partner. You may initiate a claim directly from the Pilot Mobility app or via the insurer's website as described on the Insurance Policy & Claim Procedure page.",
+        "Original bills, reports, and government-issued ID proofs may be required. Non-submission or delay of documents can lead to rejection or partial settlement of the claim as per the insurer's discretion."
+      ]
+    },
+    {
+      "title": "5) Role of Pilot Mobility",
+      "body": [
+        "Pilot Mobility is only a facilitator of this group insurance policy and is not an insurance company. All decisions related to claim approval, rejection, or settlement are taken solely by the insurance partner."
+      ]
+    },
+    {
+      "title": "6) Contact & Support",
+      "isSupport": true,
+      "body": [
+        "For any questions regarding coverage or claims, please reach out to:"
+      ]
+    }
+  ]
+}
+

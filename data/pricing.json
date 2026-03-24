@@ -1,0 +1,31 @@
+{
+  "headline": "Trading Plans and Mentorship",
+  "subtitle": "Choose the right plan for your goals. Learn with experts, get strategy support, and trade with confidence.",
+  "plans": [
+    {
+      "title": "Starter Trader",
+      "icon": "stock",
+      "description": "Perfect for beginners to learn market basics, chart reading, and disciplined risk management.",
+      "features": [
+        "Foundations of stock, forex, and crypto",
+        "Daily watchlist and market recap",
+        "Beginner-friendly trade setup templates"
+      ],
+      "price": "199",
+      "isPopular": false
+    },
+    {
+      "title": "Pro Mentorship + Signals",
+      "icon": "analytics",
+      "description": "Advanced mentorship with live trade breakdowns, premium signals, and portfolio reviews.",
+      "features": [
+        "Live trading room and strategy sessions",
+        "High-conviction signals with risk levels",
+        "Weekly portfolio performance review",
+        "Priority mentor Q&A support"
+      ],
+      "price": "299",
+      "isPopular": true
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "title": "MT4/MT5 Copy Trading System",
+    "image": "/images/copy-trading-service.svg",
+    "description": "Connect your account and automatically mirror trades from profitable strategies with secure trade routing."
+  },
+  {
+    "title": "Custom Indicator Development",
+    "image": "/images/indicator-development-service.svg",
+    "description": "We build custom technical indicators for MT4 and MT5 based on your exact logic and entry rules."
+  },
+  {
+    "title": "EA Development for Auto Trading",
+    "image": "/images/ea-rental-service.svg",
+    "description": "From strategy coding to deployment, we develop robust Expert Advisors for fully automated forex execution."
+  },
+  {
+    "title": "Profitable EA Rental",
+    "image": "/images/ea-rental-service.svg",
+    "description": "Rent tested EAs and run them on your own live or demo account without buying source code."
+  },
+  {
+    "title": "Trader Utility Systems",
+    "image": "/images/indicator-development-service.svg",
+    "description": "We provide execution, risk-control, and analytics systems that make active trading more efficient."
+  }  
+  
+]

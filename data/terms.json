@@ -1,0 +1,239 @@
+{
+  "title": "TERMS AND CONDITIONS",
+  "description": "Last updated: March 2026",
+  "sections": [
+    {
+      "title": "Introduction",
+      "body": [
+        "These Terms and Conditions (\"Terms\") govern your access to and use of the Pilot - Learn Car Driving App, Pilot Instructor App, Pilot Admin Portal, and website https://pilotnow.in (collectively referred to as the \"Platform\") operated by PILOT MOBILITY PRIVATE LIMITED (\"Pilot Mobility\", \"Pilot\", \"Company\", \"we\", \"us\", or \"our\").",
+        "Pilot provides a technology platform that facilitates structured driving training services between learners and verified instructors. By using the Platform, you agree to these Terms. If you do not agree with these Terms, you must discontinue using the Platform."
+      ]
+    },
+    {
+      "title": "PART A – TERMS FOR LEARNERS",
+      "body": [
+        "The following terms apply specifically to learners who use the Platform to book and attend driving training and related services."
+      ]
+    },
+    {
+      "title": "1. Services",
+      "body": [
+        "Pilot provides structured car driving training and license assistance services through verified instructors. Services may include driving sessions, mock tests, RTO coordination, and related support. Driving licenses are issued only by the relevant Government authorities, and Pilot does not guarantee issuance of any driving license.",
+        "Pilot acts only as a service provider and facilitator connecting learners with instructors through the Platform. Pilot operates as a managed service platform and controls package pricing, scheduling, and payments."
+      ]
+    },
+    {
+      "title": "2. Eligibility",
+      "isList": true,
+      "body": [
+        "Users must:",
+        "Be legally eligible to learn driving under applicable laws",
+        "Provide accurate personal information",
+        "Use the platform only for lawful purposes",
+        "By using the Platform, you represent that the information provided by you is accurate, complete, and lawful. Users under the legally permissible age must not use the Platform."
+      ]
+    },
+    {
+      "title": "3. Account Registration",
+      "body": [
+        "To access services, learners must create an account.",
+        "Users are responsible for:",
+        "Maintaining account security",
+        "Protecting login credentials",
+        "All activities conducted under their account",
+        "Unauthorized access must be reported immediately."
+      ]
+    },
+    {
+      "title": "4. Package Booking",
+      "body": [
+        "Learners may purchase driving training packages through the Platform. These packages may include sessions consisting of:",
+        "OTP verification before the ride",
+        "Instructor pickup and drop",
+        "Real-time tracking",
+        "Structured lesson modules",
+        "Driving sessions are OTP-verified and tracked digitally for safety and accountability.",
+        "Instructor allocation is based on availability and operational requirements. Instructors are assigned by Pilot after verification and based on availability and operational considerations."
+      ]
+    },
+    {
+      "title": "5. Payments",
+      "body": [
+        "Payments must be made through authorized payment gateways including Razorpay.",
+        "Learners must not pay instructors directly.",
+        "Pilot collects payments and distributes earnings to instructors after deducting applicable platform fees. All payments are processed securely through Razorpay or other authorized payment partners.",
+        "Pilot deducts a predefined commission from each transaction before crediting the remaining amount to the instructor as earnings."
+      ]
+    },
+    {
+      "title": "6. User Responsibilities",
+      "isList": true,
+      "body": [
+        "Learners agree to:",
+        "Behave respectfully with instructors",
+        "Follow safety guidelines",
+        "Provide accurate information",
+        "Follow all applicable traffic and safety laws",
+        "Misconduct may result in suspension of services."
+      ]
+    },
+    {
+      "title": "7. Cancellation and Refund",
+      "body": [
+        "Please refer to the Cancellation and Refund Policy for detailed terms governing cancellations, refunds, and related conditions applicable to services booked through the Platform. By using the Platform and purchasing any packages or services, you agree to be bound by the terms outlined in the Cancellation and Refund Policy, as updated from time to time."
+      ]
+    },
+    {
+      "title": "8. Limitation of Liability",
+      "body": [
+        "Pilot facilitates services through its platform and does not directly provide driving training itself. Pilot coordinates driving training and license assistance services but does not guarantee the issuance of a driving license, as this is solely at the discretion of the relevant government authorities.",
+        "Pilot is not responsible for:",
+        "Government licensing decisions",
+        "External delays in RTO processes",
+        "Indirect or incidental damages",
+        "To the maximum extent permitted by law, Pilot shall not be liable for any indirect, incidental, special, or consequential damages arising out of or related to your use of the Platform or services."
+      ]
+    },
+    {
+      "title": "9. Accident and Damages",
+      "body": [
+        "Driving training involves inherent risks. In the event of any accident, collision, property damage, vehicle damage, personal injury, or death occurring during a driving session, responsibility shall primarily lie with the instructor and/or the vehicle owner, and such incidents are generally expected to be covered by the vehicle's applicable insurance policy, where available.",
+        "Pilot does not own, operate, or control the vehicles used for training sessions and therefore shall not be held liable for any damages, losses, injuries, or claims arising from such incidents.",
+        "Learners agree that Pilot shall not be responsible for any property damage, personal injury, medical expenses, or other liabilities arising during or in connection with driving sessions conducted through the Platform."
+      ]
+    },
+    {
+      "title": "PART B – TERMS FOR INSTRUCTORS",
+      "body": [
+        "The following terms apply specifically to instructors who provide driving training services using the Platform."
+      ]
+    },
+    {
+      "title": "10. Instructor Registration",
+      "isList": true,
+      "body": [
+        "Individuals who wish to provide driving training services through the Platform must register using the Pilot Instructor App and complete the required onboarding process.",
+        "As part of the registration and verification procedure, instructors must submit accurate personal and professional information along with relevant documents for identity, eligibility, and vehicle verification.",
+        "Required documents may include but are not limited to:",
+        "Aadhaar Card",
+        "PAN Card",
+        "Valid Driving License",
+        "Vehicle Registration Certificate (RC)",
+        "Valid Vehicle Insurance",
+        "Recent images of the training vehicle",
+        "Bank account details for payouts",
+        "All submitted documents are reviewed by the Pilot operations team (OBT). Instructor accounts will be activated only after successful verification and approval.",
+        "While Pilot performs reasonable document verification and onboarding checks, Pilot does not guarantee the character, conduct, or future behavior of any Instructor or Learner using the Platform.",
+        "Pilot reserves the right to approve, reject, or request additional information during the verification process."
+      ]
+    },
+    {
+      "title": "11. Independent Contractor Status",
+      "body": [
+        "Instructors using the Platform operate as independent contractors and not as employees, agents, or representatives of Pilot.",
+        "Nothing in these Terms shall be interpreted as creating an employer-employee relationship, partnership, or joint venture between Pilot and the Instructor.",
+        "Instructors are solely responsible for:",
+        "Their own taxes and statutory obligations",
+        "Vehicle ownership, maintenance, and insurance",
+        "Compliance with applicable driving and transport regulations",
+        "Pilot shall not be responsible for providing employee benefits such as salary, insurance, provident fund, or other employment-related benefits."
+      ]
+    },
+    {
+      "title": "12. Instructor Obligations",
+      "isList": true,
+      "body": [
+        "Instructors must:",
+        "Maintain valid documentation",
+        "Follow traffic laws",
+        "Conduct safe and professional training",
+        "Use OTP verification during sessions",
+        "Treat learners respectfully",
+        "Maintain valid driving licenses and vehicle-related documents",
+        "Comply with all applicable safety and traffic regulations",
+        "Provide accurate information during onboarding and verification",
+        "Providing false information, engaging in unsafe driving practices, or misconduct with learners may result in suspension or termination of access to the Platform."
+      ]
+    },
+    {
+      "title": "13. Instructor Earnings",
+      "body": [
+        "Instructor earnings are based on:",
+        "Completed sessions",
+        "Platform payout rules",
+        "Commission deductions",
+        "Instructors may withdraw earnings through the app according to payout schedules defined by the Platform."
+      ]
+    },
+    {
+      "title": "14. Platform Usage Rules",
+      "isList": true,
+      "body": [
+        "Instructors must not:",
+        "Accept direct payments from learners",
+        "Conduct off-platform training sessions",
+        "Misrepresent credentials",
+        "Harass or endanger learners",
+        "Violations may lead to account suspension."
+      ]
+    },
+    {
+      "title": "GENERAL TERMS",
+      "body": [
+        "The following general terms apply to all users of the Platform, including learners and instructors."
+      ]
+    },
+    {
+      "title": "15. User Conduct",
+      "isList": true,
+      "body": [
+        "Users (learners and instructors) shall not:",
+        "Use the Platform for unlawful, fraudulent, or unauthorized purposes",
+        "Provide false or misleading information",
+        "Harass, abuse, or threaten other users or staff",
+        "Attempt to bypass payment or tracking systems",
+        "Interfere with the security or functionality of the Platform"
+      ]
+    },
+    {
+      "title": "16. Intellectual Property",
+      "body": [
+        "All content, logos, trademarks, designs, software, and other intellectual property associated with the Platform are owned by Pilot or its licensors.",
+        "Users may not copy, reproduce, modify, distribute, or create derivative works without prior written consent."
+      ]
+    },
+    {
+      "title": "17. Termination",
+      "body": [
+        "Pilot may suspend or terminate access to the Platform if a user:",
+        "Violates these Terms",
+        "Engages in fraudulent activity",
+        "Creates safety risks",
+        "Is required to be suspended under law or regulation"
+      ]
+    },
+    {
+      "title": "18. Governing Law",
+      "body": [
+        "These Terms shall be governed by the laws of India.",
+        "Any disputes shall fall under the jurisdiction of the competent courts in India."
+      ]
+    },
+    {
+      "title": "19. Changes to Terms",
+      "body": [
+        "Pilot may update these Terms from time to time. Updated versions will be posted on the Platform or website.",
+        "Continued use of the Platform after such changes constitutes acceptance of the revised Terms."
+      ]
+    },
+    {
+      "title": "20. Contact Information",
+      "body": [
+        "For any questions regarding these Terms, please contact:",
+        "Email: support@pilotnow.in",
+        "Website: https://pilotnow.in"
+      ]
+    }
+  ]
+}
+

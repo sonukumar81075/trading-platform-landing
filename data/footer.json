@@ -1,0 +1,78 @@
+{
+  "cta": {
+    "headline": "Start trading smarter with expert guidance.",
+    "subtitle": "Thousands trust Lytechx for structured systems, live analysis, and actionable signals.",
+    "appBadges": []
+  },
+  "columns": [
+    {
+      "title": "Company",
+      "links": [
+        {
+          "label": "info@lytechx.com",
+          "href": "mailto:info@lytechx.com"
+        }
+      ]
+    },
+    {
+      "title": "Legal",
+      "links": [
+        {
+          "label": "Terms & Conditions",
+          "href": "/tnc"
+        },
+        {
+          "label": "Privacy Policy",
+          "href": "/privacy-policy"
+        }
+      ]
+    },
+    {
+      "title": "Support",
+      "links": [
+        {
+          "label": "Contact Us",
+          "href": "/support"
+        }
+      ]
+    }
+  ],
+  "social": [
+    {
+      "label": "LinkedIn",
+      "href": "https://www.linkedin.com/company/lytechx/",
+      "icon": "linkedin"
+    },
+    {
+      "label": "Facebook",
+      "href": "https://www.facebook.com/lytechx",
+      "icon": "facebook"
+    },
+    {
+      "label": "Instagram",
+      "href": "https://www.instagram.com/lytechx.digital/",
+      "icon": "instagram"
+    },
+    {
+      "label": "YouTube",
+      "href": "https://www.youtube.com/@lytechx",
+      "icon": "youtube"
+    },
+    {
+      "label": "Pinterest",
+      "href": "https://in.pinterest.com/lytechx",
+      "icon": "pinterest"
+    },
+    {
+      "label": "Twitter (X)",
+      "href": "https://x.com/lytechx",
+      "icon": "twitter"
+    },
+    {
+      "label": "for Careers",
+      "href": "mailto:careers@lytechx.com",
+      "icon": "mail"
+    }
+  ],
+  "legal": "Lytechx © 2026"
+}

@@ -1,0 +1,65 @@
+{
+  "brand": "Lytechx",
+  "nav": [ 
+    {
+      "label": "Services",
+      "href": "/#services"
+    },
+    {
+      "label": "How it works",
+      "href": "/#how-it-works"
+    },
+    {
+      "label": "Reviews",
+      "href": "/#testimonials"
+    },
+    {
+      "label": "FAQ",
+      "href": "/#faq"
+    }
+  ],
+  "headline": "Advanced Forex Technology for MT4 and MT5 Traders.",
+  "subtitle": "We are a development team delivering copy trading systems, custom indicators, automated EAs, and profitable EA rental solutions for serious traders.",
+  "primaryCta": {
+    "label": "Start Trading",
+    "href": "#download"
+  },
+  "secondaryCta": {
+    "label": "Get Signals",
+    "href": "#services"
+  },
+  "appBadges": [],
+  "heroImage": {
+    "src": "/images/forex-hero-dashboard.svg",
+    "alt": "Forex technology dashboard with MT4 and MT5 analytics",
+    "width": 980,
+    "height": 720
+  },
+  "whyChoose": [
+    {
+      "title": "MT4 and MT5 Copy Trading",
+      "description": "Mirror proven strategies directly into your own trading account"
+    },
+    {
+      "title": "Custom Indicator Development",
+      "description": "Built-to-order indicators for your strategy logic and signals"
+    },
+    {
+      "title": "EA Development",
+      "description": "Automated Expert Advisors engineered for speed and stability"
+    },
+    {
+      "title": "EA Rental Services",
+      "description": "Hire profitable EAs and run them on your own broker account"
+    },
+    {
+      "title": "Trader Support Systems",
+      "description": "Analytics, execution tools, and trade management automation"
+    },
+    {
+      "title": "Developer-Led Execution",
+      "description": "A pure IT team focused on reliable forex product delivery"
+    }
+  
+  ]
+}

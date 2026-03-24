@@ -1,0 +1,56 @@
+{
+  "title": "INSURANCE POLICY & CLAIM PROCEDURE",
+  "description": "Last updated: March 2026",
+  "sections": [
+    {
+      "title": "Introduction",
+      "body": [
+        "Every ride is insured. Here's how you can claim your insurance.",
+        "Filing a claim in case of an accident or medical emergency is simple and quick. Please follow the steps below to initiate your insurance claim."
+      ]
+    },
+    {
+      "title": "1) Through the Pilot Mobility App",
+      "isList": true,
+      "body": [
+        "Complete the following steps in the Pilot Mobility App:",
+        "Open the Pilot Mobility App and go to My Rides.",
+        "Select the ride for which you want to raise an insurance claim.",
+        "Open the Ride Details page and tap on Claim Insurance.",
+        "Choose the type of claim (Accident / Medical / OPD).",
+        "Fill in the required details and upload supporting documents.",
+        "Submit the request — your claim will be registered and processed by our insurance partner."
+      ]
+    },
+    {
+      "title": "2) Through Insurance Partner Website",
+      "isList": true,
+      "body": [
+        "Alternatively, you can file a claim via the insurance partner's portal:",
+        "Visit the insurance partner's official website.",
+        "Login using your registered mobile number and OTP.",
+        "Go to the Claims section and select Pilot Mobility Passenger Claims.",
+        "Choose the relevant ride and click on Initiate Claim.",
+        "Select claim type, upload documents, and submit the form."
+      ]
+    },
+    {
+      "title": "Required Documents",
+      "isList": true,
+      "body": [
+        "Keep the following ready when filing a claim:",
+        "Ride details / Ride ID",
+        "Valid ID proof",
+        "Medical reports or hospital bills (if applicable)",
+        "Accident details (if applicable)"
+      ]
+    },
+    {
+      "title": "Support",
+      "isSupport": true,
+      "body": [
+        "For any assistance regarding claims, please contact:"
+      ]
+    }
+  ]
+}

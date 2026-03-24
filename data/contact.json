@@ -1,0 +1,69 @@
+{
+    "title": "Contact Us",
+    "description": "We’re here to help you with driving training, license assistance, instructor onboarding, partnerships, or any general inquiries related to Pilot Mobility.",
+    "intro": [
+      "Whether you’re a learner, instructor, or business partner, feel free to reach out to us through the details below."
+    ],
+    "office": {
+      "title": "Office Address",
+      "buttonLabel": "View Address",
+      "lines": [
+        "WeWork The Pavilion MG Road, 63,",
+        "Church St, Haridevpur,",
+        "Shanthala Nagar, Ashok Nagar,",
+        "Bengaluru, Karnataka - 560001"
+      ]
+    },
+    "phone": {
+      "title": "Phone",
+      "buttonLabel": "+91 80654 89040",
+      "number": "+91 80654 89040",
+      "scheduleTitle": "Monday – Saturday",
+      "scheduleLines": [
+        "10:00 AM – 6:00 PM",
+        "(Sundays & Public Holidays Closed)"
+      ]
+    },
+    "email": {
+      "title": "Email",
+      "buttonLabel": "support@pilotnow.in",
+      "address": "support@pilotnow.in",
+      "description": "For support, service-related queries, cancellations, refunds, or partnership inquiries."
+    },
+    "customerSupport": {
+      "title": "Customer Support",
+      "intro": "For faster resolution, we recommend:",
+      "points": [
+        "Using in-app support (Pilot Learner / Pilot Instructor App)",
+        "Emailing us with your registered mobile number and booking details"
+      ],
+      "note": "Our team will respond within a reasonable timeframe."
+    },
+    "connect": {
+      "title": "Connect With Us",
+      "description": "Stay updated with announcements, offers, and learning tips:",
+      "links": [
+        { "label": "Facebook", "href": "#" },
+        { "label": "Instagram", "href": "#" },
+        { "label": "YouTube", "href": "#" },
+        { "label": "LinkedIn", "href": "#" }
+      ]
+    },
+    "instructors": {
+      "title": "For Instructors",
+      "intro": "If you are a certified driving instructor and wish to join Pilot:",
+      "points": [
+        "Download the Pilot Instructor App",
+        "Complete your profile and upload required documents",
+        "Our Operations Team (OBT) will verify and onboard you"
+      ],
+      "note": "For assistance, contact us via email."
+    },
+    "legal": {
+      "title": "Legal & Compliance",
+      "body": [
+        "For privacy-related requests, data deletion, or compliance queries, please email us with the subject line:",
+        "\"Privacy Request – Pilot Mobility\""
+      ]
+    }
+  }

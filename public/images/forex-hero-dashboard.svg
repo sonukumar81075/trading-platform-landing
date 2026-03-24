@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" fill="none">
+  <rect width="1600" height="1000" fill="#0B1220"/>
+  <rect x="70" y="70" width="1460" height="860" rx="28" fill="#111B2F" stroke="#26334F"/>
+  <rect x="120" y="120" width="960" height="520" rx="20" fill="#0F172A"/>
+  <polyline points="150,560 230,500 300,530 380,430 470,460 550,360 630,390 720,300 800,340 900,250 1030,290" stroke="#22C55E" stroke-width="6" fill="none"/>
+  <polyline points="150,590 220,600 310,520 390,550 470,500 560,520 640,470 730,500 820,430 930,460 1030,420" stroke="#38BDF8" stroke-width="4" fill="none" opacity="0.9"/>
+  <rect x="1120" y="120" width="360" height="250" rx="18" fill="#17233C"/>
+  <text x="1145" y="170" fill="#93C5FD" font-family="Arial" font-size="28">Copy Trading</text>
+  <text x="1145" y="215" fill="#E2E8F0" font-family="Arial" font-size="24">Win Rate: 78%</text>
+  <text x="1145" y="255" fill="#22C55E" font-family="Arial" font-size="24">P/L: +12.4%</text>
+  <rect x="1120" y="400" width="360" height="240" rx="18" fill="#17233C"/>
+  <text x="1145" y="450" fill="#A5B4FC" font-family="Arial" font-size="28">EA Status</text>
+  <circle cx="1162" cy="500" r="10" fill="#22C55E"/>
+  <text x="1185" y="508" fill="#E2E8F0" font-family="Arial" font-size="24">Running on MT5</text>
+  <text x="1145" y="550" fill="#E2E8F0" font-family="Arial" font-size="24">Pairs: EURUSD, XAUUSD</text>
+</svg>

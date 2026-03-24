@@ -1,0 +1,26 @@
+[
+  {
+    "step": "01",
+    "title": "Choose Your Service",
+    "description": "Select copy trading, indicator development, EA development, or EA rental based on your trading needs.",
+    "image": "/images/copy-trading-service.svg"
+  },
+  {
+    "step": "02",
+    "title": "Share Your Requirements",
+    "description": "We gather your platform details, strategy logic, risk settings, and broker execution preferences.",
+    "image": "/images/indicator-development-service.svg"
+  },
+  {
+    "step": "03",
+    "title": "Deployment and Setup",
+    "description": "Our team configures your MT4/MT5 environment and deploys your solution for smooth live execution.",
+    "image": "/images/forex-hero-dashboard.svg"
+  },
+  {
+    "step": "04",
+    "title": "Run and Scale",
+    "description": "Launch your system, monitor performance, and scale with upgrades, rentals, and ongoing support.",
+    "image": "/images/ea-rental-service.svg"
+  }
+]

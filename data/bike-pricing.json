@@ -1,0 +1,31 @@
+{
+  "headline": "Bike Training Packages",
+  "subtitle": "Safety-first motorcycle training for beginners and experienced riders with a strong focus on control and road awareness.",
+  "plans": [
+    {
+      "title": "Basic Bike Training",
+      "icon": "bike",
+      "description": "Ideal for new riders who want to learn core bike handling and traffic basics in a safe and controlled environment.",
+      "features": [
+        "Foundational clutch & brake control",
+        "Low-speed balance and turning drills",
+        "City traffic riding practice"
+      ],
+      "price": "129",
+      "isPopular": false
+    },
+    {
+      "title": "Advanced Bike Training",
+      "icon": "bike",
+      "description": "Comprehensive training that adds braking, cornering, and emergency maneuver techniques to prepare you for real-world riding.",
+      "features": [
+        "Emergency braking & obstacle avoidance",
+        "Highway and long-ride sessions",
+        "Wet-road and low-traction drills",
+        "Mock test and personalized feedback"
+      ],
+      "price": "199",
+      "isPopular": true
+    }
+  ]
+}

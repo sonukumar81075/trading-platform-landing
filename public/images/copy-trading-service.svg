@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800" fill="none">
+  <rect width="800" height="800" rx="36" fill="#0F172A"/>
+  <rect x="60" y="70" width="680" height="660" rx="30" fill="#111B2F" stroke="#334155"/>
+  <rect x="300" y="290" width="200" height="180" rx="16" fill="#1E293B"/>
+  <text x="332" y="385" fill="#93C5FD" font-family="Arial" font-size="24">Master</text>
+  <rect x="110" y="140" width="170" height="130" rx="14" fill="#1E293B"/>
+  <rect x="520" y="140" width="170" height="130" rx="14" fill="#1E293B"/>
+  <rect x="110" y="520" width="170" height="130" rx="14" fill="#1E293B"/>
+  <rect x="520" y="520" width="170" height="130" rx="14" fill="#1E293B"/>
+  <path d="M300 340 L250 230" stroke="#22C55E" stroke-width="5"/>
+  <path d="M500 340 L550 230" stroke="#22C55E" stroke-width="5"/>
+  <path d="M300 420 L250 560" stroke="#22C55E" stroke-width="5"/>
+  <path d="M500 420 L550 560" stroke="#22C55E" stroke-width="5"/>
+  <circle cx="250" cy="230" r="7" fill="#22C55E"/>
+  <circle cx="550" cy="230" r="7" fill="#22C55E"/>
+  <circle cx="250" cy="560" r="7" fill="#22C55E"/>
+  <circle cx="550" cy="560" r="7" fill="#22C55E"/>
+</svg>

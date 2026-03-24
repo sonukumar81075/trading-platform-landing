@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is Lytechx?",
+    "answer": "Lytechx is an IT services company focused on forex technology solutions for MT4 and MT5 traders."
+  },
+  {
+    "question": "Do you provide education or training?",
+    "answer": "No. We are not a learning center. We provide trading technology services, development, and automation systems."
+  },
+  {
+    "question": "What services do you offer?",
+    "answer": "We provide MT4/MT5 copy trading systems, custom indicator development, EA development, EA rental, and trader support systems."
+  },
+  {
+    "question": "Do you support both MT4 and MT5?",
+    "answer": "Yes, all core services are available for both MetaTrader 4 and MetaTrader 5 environments."
+  },
+  {
+    "question": "Can you build a custom indicator for my strategy?",
+    "answer": "Yes, we can build custom indicators based on your logic, filters, alerts, and preferred chart behavior."
+  },
+  {
+    "question": "Do you build automated EAs?",
+    "answer": "Yes, we develop Expert Advisors for automated trading with configurable risk, entries, exits, and trade management."
+  },
+  {
+    "question": "What is EA rental?",
+    "answer": "EA rental allows you to hire a profitable EA and run it on your own account for a subscription period."
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": " We support UPI, debit/credit cards, and other digital payment options."
+  },
+  {
+    "question": "Do you provide post-deployment support?",
+    "answer": "Yes, we provide support for setup, optimization, upgrades, and issue resolution after deployment."
+  },
+  {
+    "question": "Is there customer support available?",
+    "answer": "Yes, Lytechx provides dedicated support to assist you at every step."
+  }
+]

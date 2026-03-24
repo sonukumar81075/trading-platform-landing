@@ -1,0 +1,87 @@
+{
+    "title": "CANCELLATION & REFUND POLICY",
+    "description": "Last updated: March 2026",
+    "sections": [
+        {
+            "title": "Introduction",
+            "body": [
+                "At PILOT MOBILITY PRIVATE LIMITED (\"Pilot\", \"Pilot Mobility\", \"we\", \"us\", or \"our\"), we strive to provide a structured and seamless driving learning experience.",
+                "This Cancellation & Refund Policy outlines the terms governing cancellations and refunds for services booked through the Pilot - Learn Car Driving App, Pilot Instructor App, and the website https://pilotnow.in (collectively referred to as the \"Platform\").",
+                "By purchasing any service or training package through the Platform, you agree to be bound by the terms of this policy."
+            ]
+        },
+        {
+            "title": "1) Package-Based Policy",
+            "body": [
+                "Pilot provides structured driving training packages. Individual sessions within a package are not sold separately, and therefore refunds for individual sessions are not permitted.",
+                "Learners may request cancellation of a purchased package by clicking on the \"Cancel Package\" button available in the Package Session Details section within the App or by sending an email to support@pilotnow.in.",
+                "All cancellation requests are subject to review and verification, including confirmation of the number of sessions completed and services already utilized."
+            ]
+        },
+        {
+            "title": "2) Refund Calculation Logic",
+            "isList": true,
+            "body": [
+                "If a cancellation request is approved, refund eligibility will be determined based on several factors, including:",
+                "Number of driving sessions already completed.",
+                "Services already utilized under the purchased package.",
+                "The stage of any license assistance or RTO coordination services that may have been initiated.",
+                "If eligible, the refund will be calculated based on the value of unused sessions remaining in the purchased package (pro-rata basis).",
+                "Pilot reserves the right to deduct a flat administrative or processing fee and applicable payment gateway or transaction charges processed through Razorpay from the total refund amount.",
+                "If license assistance services such as RTO coordination or documentation processing have already been initiated, the associated service fee may be partially or fully non-refundable depending on the stage of the process."
+            ]
+        },
+        {
+            "title": "3) Non-Refundable Components",
+            "isList": true,
+            "body": [
+                "Refunds will not be issued for the following:",
+                "Any driving session that has already been conducted and verified through OTP verification on the Platform.",
+                "Any statutory fees, government charges, or payments made to Regional Transport Offices (RTOs), government departments, or other statutory authorities are strictly non-refundable.",
+                "Such government fees are processed directly by authorities, and Pilot does not control or process these amounts once paid.",
+                "If a package was purchased using a promotional coupon or discount, the refund will only reflect the actual amount paid by the learner, not the original package price."
+            ]
+        },
+        {
+            "title": "4) Refund Processing & Timelines",
+            "isList": true,
+            "body": [
+                "Approved refunds will be credited only to the original source of payment, including bank account, UPI, debit card, or credit card.",
+                "Payments are processed using Razorpay or other authorized payment partners, and refunds will be initiated through the same gateway.",
+                "If approved, refunds are generally processed within 7 days, subject to banking and payment gateway timelines.",
+                "Actual credit timelines may vary depending on bank processing cycles, payment gateway processing timelines (including Razorpay), and government or public holidays."
+            ]
+        },
+        {
+            "title": "5) Denial of Refund",
+            "isList": true,
+            "body": [
+                "Pilot reserves the right to deny or reject refund requests in the following situations:",
+                "If the learner's account has been suspended or terminated due to misconduct or violation of the Platform's Terms & Conditions.",
+                "If the learner repeatedly fails to attend scheduled sessions without prior notice.",
+                "If a refund request is found to be fraudulent, abusive, or intended to misuse the Platform's policies."
+            ]
+        },
+        {
+            "title": "6) Force Majeure (Service Disruptions)",
+            "isList": true,
+            "body": [
+                "Pilot shall not be held responsible for delays, interruptions, or inability to conduct sessions due to circumstances beyond reasonable control, including:",
+                "Natural disasters such as heavy rain, floods, or extreme weather conditions.",
+                "Government restrictions, lockdowns, or regulatory changes.",
+                "Strikes, bandhs, or civil unrest.",
+                "Major network or technical outages.",
+                "In such situations, sessions may be rescheduled instead of refunded depending on the circumstances."
+            ]
+        },
+        {
+            "title": "7) Contact & Support",
+            "isSupport": true,
+            "body": [
+                "If you have any questions, concerns, or disputes regarding cancellations or refunds, please contact our support team:",
+                "Email: support@pilotnow.in",
+                "Website: https://pilotnow.in"
+            ]
+        }
+    ]
+}
